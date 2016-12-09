@@ -10,6 +10,6 @@ Please download the folders ('Theme-Default', 'User') and replace in your sublim
 ![alt tag](https://github.com/edward3310/sublime-sidebar-beautiful-dark/blob/master/screen_3.jpg)<br>
 <h3></h3>
 <h4>Tips: How to use sublime-utilityPlugins & beautifulSidebar.zip</h4>
-download and extract in your sublime packages folder<br>
+download the zip file and extract in your sublime packages folder<br>
 This is very usefull packages for those who want to beautiful code.
 Enjoy your coding!
